@@ -140,9 +140,9 @@
     Plastic: 500
     
 - type: latheRecipe
-  id: WeaponShotgunHelepolis
+  id: WeaponShotgunHelopolis
   parent: BaseWeaponRecipeLong
-  result: WeaponShotgunHelepolis
+  result: WeaponShotgunHelopolis
   categories:
   - Shotguns
   - Ballistic

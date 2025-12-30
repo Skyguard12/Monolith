@@ -82,7 +82,7 @@
   - WeaponRevolverArgenti
   - WeaponPistolMk58NF
   - WeaponShotgunDoubleBarreled
-  - WeaponShotgunHelepolis
+  - WeaponShotgunHelopolis
   - WeaponRifleNovaliteC1
   - WeaponRifleGestio
   - WeaponSubMachineGunKnallstock # Mono
@@ -195,12 +195,6 @@
   - UllmanWeaponPulseRifle
   - UllmanWeaponPulseSniper
   - UllmanMeleePlasmaBlade
-# Pod Stuff
-  - ZephyrFlatpack
-  - SupplyPod
-  - BasePod
-  - LargePod
-  - AdvancedPod
 #Mono end
 
 - type: latheRecipePack

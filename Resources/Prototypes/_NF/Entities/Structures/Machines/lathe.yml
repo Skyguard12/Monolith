@@ -215,8 +215,6 @@
     - UniversalMissileAmmo
     - UniversalShellAmmo
     - UniversalOrdinance
-    - SecurityEquipment
-    - SmartGun #Smart SMG
     # Mono end
   - type: EmagLatheRecipes
     emagStaticPacks:

@@ -11,6 +11,3 @@ research-technology-universal-advanced-light-fighter-ordinance = Advanced Fighte
 
 research-technology-universal-armorplates-1 = Ballistic Composites Reverse Engineering
 research-technology-universal-armorplates-2 = Plasteel Hex-ply Stamping Reverse Engineering
-
-research-technology-universal-boarding-pods = Alternative Delivery Methods
-research-technology-universal-special-pods = Specialized Pods
